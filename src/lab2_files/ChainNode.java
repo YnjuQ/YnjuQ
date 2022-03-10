@@ -12,7 +12,7 @@ public class ChainNode
    Object element;
    ChainNode next;
 
-   // package visible constructorsvhghjgfhjfjhgf
+   // package visible constructorsvhghjgfjhkjhjlkhlhjfjhgf
    public ChainNode() {}
      
    ChainNode(Object element)
